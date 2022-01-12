@@ -34,7 +34,7 @@ input {
   padding: 0 1em;
   font-size: large;
 }
-.submit {
+.search {
   border: none;
   padding: 0.3em 1em;
   border-radius: 0.5rem;
@@ -69,6 +69,6 @@ input {
   justify-content: flex-end;
 }
 .cel {
-  width: 6rem;
+  width: 8rem;
   padding: 0;
 }
